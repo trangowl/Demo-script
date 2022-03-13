@@ -1,3 +1,5 @@
+### So far only works on excel files
+
 library(readxl)
 library(vietnameseConverter)
 library(dplyr)
